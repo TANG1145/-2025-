@@ -1,0 +1,7 @@
+s 1
+v 1 -2 -3 -4 -5 6 -7 -8 9 -10 -11 -12 -13 14 15 -16 17 -18 -19 20 0
+t 0
+c === Performance Analysis ===
+c Unoptimized Time: 0.446 ms
+c Optimized Time:   0.268 ms
+c Optimization Rate: 39.89%
